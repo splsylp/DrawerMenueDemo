@@ -5,4 +5,6 @@
 2、封装Navigation导航栏控制器，自动管理左滑手势的打开与关闭(只在首页的时候打开手势)<br>
 3、如果不需要TabbarController，只需要把TabbarController换为自己的根控制器即可<br>
 
+[左滑菜单浮层遮罩效果，请看这里](https://github.com/splsylp/LeftMenueDemo)<br>
+
 ![image](https://github.com/splsylp/DrawerMenueDemo/blob/master/drawerMenue.gif )
